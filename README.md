@@ -1,5 +1,5 @@
-# MERN RESTful API Basic Project
-This repository covers basic of RESTful API with MERN based on the original repository https://github.com/bradtraversy/mern-tutorial and youtube channel https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm&index=32
+# RESTful API NodeJS Basic Project
+This repository covers basic of RESTful API with Node JS based on the original repository https://github.com/bradtraversy/mern-tutorial and youtube channel https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm&index=32
 
 ## The Purpose
 The purpose of this repository is as a self documentation of my learning experience together with this medium page https://adityaaufar.medium.com/beginner-dev-documentation-node-js-restful-api-with-mongoose-556003c03304
